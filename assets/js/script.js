@@ -15,7 +15,7 @@ Values: "Honda," "Civic," "2003."
 /* The alert that is displayed from variables */
 Displays: key-Value
 // var displayList = function () {
-//   alert("key: " + cars.key);
+//   alert("key: " + cars.key); 
 // };
 
 Displays: make-Honda
