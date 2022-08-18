@@ -1,4 +1,5 @@
 * Objects are the building blocks of which our Javascript applications are dependent.
+
 * Objects are variables that contain a combination of primitive data types.
 * Primitive Data Types: 
 1. Boolean
@@ -9,6 +10,7 @@
 6. Long
 7. Float
 8. Double
+
 * Ways to use functions within an object: 
 1. Key Value Pairs 
 2. Method: An internal function.
